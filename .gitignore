@@ -1,0 +1,34 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### Xcode ###
+# User settings
+*.xcodeproj
+*.xcworkspace
+
+# Workspace checks
+IDEWorkspaceChecks.plist
+
+# App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+Packages/
+Package.pins
+Package.resolved
+.swiftpm
+.build/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage
+
+# Bundler
+.bundle
